@@ -1,0 +1,13 @@
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.exe
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.deps.json
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.json
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.dev.json
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.dll
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.pdb
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.csprojAssemblyReference.cache
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfoInputs.cache
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfo.cs
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.csproj.CoreCompileInputs.cache
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.dll
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.pdb
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.genruntimeconfig.cache
