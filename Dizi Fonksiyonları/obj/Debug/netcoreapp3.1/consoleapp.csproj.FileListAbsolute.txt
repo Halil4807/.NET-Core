@@ -1,0 +1,26 @@
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.exe
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.deps.json
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.json
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.dev.json
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.dll
+D:\Uygulamalarım\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.pdb
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.csprojAssemblyReference.cache
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfoInputs.cache
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfo.cs
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.csproj.CoreCompileInputs.cache
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.dll
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.pdb
+D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.genruntimeconfig.cache
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\bin\Debug\netcoreapp3.1\consoleapp.exe
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\bin\Debug\netcoreapp3.1\consoleapp.deps.json
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.json
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.dev.json
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\bin\Debug\netcoreapp3.1\consoleapp.dll
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\bin\Debug\netcoreapp3.1\consoleapp.pdb
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\obj\Debug\netcoreapp3.1\consoleapp.csprojAssemblyReference.cache
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfoInputs.cache
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfo.cs
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\obj\Debug\netcoreapp3.1\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\obj\Debug\netcoreapp3.1\consoleapp.dll
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\obj\Debug\netcoreapp3.1\consoleapp.pdb
+C:\Users\Halil4807\Downloads\NET-Core-Veri-Yapilari-Halil4807-patch-4\Dizi Fonksiyonları\obj\Debug\netcoreapp3.1\consoleapp.genruntimeconfig.cache
