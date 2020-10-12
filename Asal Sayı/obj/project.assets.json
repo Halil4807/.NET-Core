@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uygulamalarım\\consoleapp\\consoleapp.csproj",
+      "projectUniqueName": "d:\\Uygulamalarım\\.net core örnekleri\\Asal Sayı\\consoleapp.csproj",
       "projectName": "consoleapp",
-      "projectPath": "D:\\Uygulamalarım\\consoleapp\\consoleapp.csproj",
+      "projectPath": "d:\\Uygulamalarım\\.net core örnekleri\\Asal Sayı\\consoleapp.csproj",
       "packagesPath": "C:\\Users\\Halil4807\\.nuget\\packages\\",
-      "outputPath": "D:\\Uygulamalarım\\consoleapp\\obj\\",
+      "outputPath": "d:\\Uygulamalarım\\.net core örnekleri\\Asal Sayı\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Halil4807\\AppData\\Roaming\\NuGet\\NuGet.Config"

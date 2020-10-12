@@ -11,3 +11,16 @@ D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.csproj.CoreCompi
 D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.dll
 D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.pdb
 D:\Uygulamalarım\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.genruntimeconfig.cache
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\bin\Debug\netcoreapp3.1\consoleapp.exe
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\bin\Debug\netcoreapp3.1\consoleapp.deps.json
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.json
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.dev.json
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\bin\Debug\netcoreapp3.1\consoleapp.dll
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\bin\Debug\netcoreapp3.1\consoleapp.pdb
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\obj\Debug\netcoreapp3.1\consoleapp.csprojAssemblyReference.cache
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfoInputs.cache
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfo.cs
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\obj\Debug\netcoreapp3.1\consoleapp.csproj.CoreCompileInputs.cache
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\obj\Debug\netcoreapp3.1\consoleapp.dll
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\obj\Debug\netcoreapp3.1\consoleapp.pdb
+D:\Uygulamalarım\.net core örnekleri\Asal Sayı\obj\Debug\netcoreapp3.1\consoleapp.genruntimeconfig.cache

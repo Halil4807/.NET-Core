@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ieYqIK3atFW0TNx8ms65LVjt4sjF5r9zUOTY6VO48Ovl/zatXAFDtbqGczfInPvWEH7yJ4udCr9kS94hre5fxw==",
+  "dgSpecHash": "pnqqNVX6PxINR5ipuKanHdyRhUoLDOH8PsviNqcXCahsG3Is7sIWekKp1CSiOXi/Au2xUE6dR9wilDBV+m4CAA==",
   "success": true,
-  "projectFilePath": "D:\\Uygulamalarım\\consoleapp\\consoleapp.csproj",
+  "projectFilePath": "D:\\Uygulamalarım\\.net core örnekleri\\Asal Sayı\\consoleapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
